@@ -1,0 +1,9 @@
+supplier_id,supplier_name,contact_name,email,phone,address,rating,is_active
+1,Distribuidora Norte,María García,contact@distribuidoranorte.com,+1 330-107-1554,5613 Mendoza,4.0,True
+2,Importadora Sur,Juan Pérez,contact@importadorasur.com,+1 333-493-5705,5150 Mar del Plata,3.4,True
+3,Mayorista Central,Carlos López,contact@mayoristacentral.com,+1 438-464-5679,9325 Buenos Aires,4.6,True
+4,Logística Express,Carlos López,contact@logísticaexpress.com,+1 731-641-6260,499 Rosario,4.2,True
+5,Proveedores Unidos,Carlos López,contact@proveedoresunidos.com,+1 899-870-8649,6871 La Plata,3.6,True
+6,Global Supply,Juan Pérez,contact@globalsupply.com,+1 643-139-1199,8039 Santa Fe,3.1,True
+7,FastImport,Juan Pérez,contact@fastimport.com,+1 558-596-6118,5560 Córdoba,4.1,True
+8,QualitySource,María García,contact@qualitysource.com,+1 812-563-7105,8240 Mar del Plata,3.5,False

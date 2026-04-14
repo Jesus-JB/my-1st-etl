@@ -1,0 +1,101 @@
+order_id,order_number,customer_id,order_date,status,subtotal,discount_percent,shipping_cost,tax_amount,total_amount,payment_method,shipping_method,promotion_id,notes
+1,ORD-20240303-00001,12,2024-03-03,entregado,735.74,1,270,154.51,1152.89,debit_card,express,-1,
+2,ORD-20231201-00002,17,2023-12-01,cancelado,1425.03,9,40,299.26,1636.04,bank_transfer,same_day,-1,Nota del cliente: Envolver para regalo
+3,ORD-20230702-00003,8,2023-07-02,enviado,3901.29,5,350,819.27,4875.5,paypal,same_day,-1,
+4,ORD-20250726-00004,33,2025-07-26,procesando,1266.71,17,240,266.01,1557.38,debit_card,standard,3,Nota del cliente: Llamar antes
+5,ORD-20230114-00005,19,2023-01-14,enviado,1556.79,1,270,326.93,2138.15,credit_card,same_day,-1,Nota del cliente: Envolver para regalo
+6,ORD-20250725-00006,6,2025-07-25,procesando,4449.19,19,180,934.33,4718.17,debit_card,same_day,-1,
+7,ORD-20250328-00007,26,2025-03-28,cancelado,1702.0,14,430,357.42,2251.14,bank_transfer,same_day,7,
+8,ORD-20230808-00008,24,2023-08-08,enviado,330.55,6,470,69.42,850.14,credit_card,express,5,
+9,ORD-20260124-00009,21,2026-01-24,procesando,1340.42,14,460,281.49,1894.25,bank_transfer,pickup,3,
+10,ORD-20240404-00010,26,2024-04-04,procesando,1353.24,8,70,284.18,1599.16,paypal,same_day,-1,
+11,ORD-20241012-00011,34,2024-10-12,pendiente,3202.65,11,190,672.56,3712.92,debit_card,express,-1,
+12,ORD-20251210-00012,4,2025-12-10,entregado,707.46,6,440,148.57,1253.58,paypal,express,4,
+13,ORD-20230324-00013,7,2023-03-24,enviado,1236.75,20,380,259.72,1629.12,credit_card,pickup,9,
+14,ORD-20250702-00014,8,2025-07-02,entregado,2538.8,18,290,533.15,2904.97,debit_card,standard,-1,
+15,ORD-20231028-00015,8,2023-10-28,enviado,23.19,14,330,4.87,354.81,debit_card,same_day,-1,Nota del cliente: Dejar en portería
+16,ORD-20231222-00016,31,2023-12-22,pendiente,2235.4,16,120,469.43,2467.17,cash_on_delivery,standard,-1,
+17,ORD-20230103-00017,15,2023-01-03,enviado,1218.33,8,110,255.85,1486.71,credit_card,express,-1,
+18,ORD-20230423-00018,8,2023-04-23,pendiente,3042.93,15,290,639.02,3515.51,debit_card,same_day,-1,Nota del cliente: Dejar en portería
+19,ORD-20250610-00019,31,2025-06-10,procesando,70.8,10,80,14.87,158.59,credit_card,express,-1,
+20,ORD-20250413-00020,29,2025-04-13,procesando,1471.16,7,110,308.94,1787.12,paypal,same_day,-1,
+21,ORD-20230110-00021,19,2023-01-10,procesando,793.24,18,150,166.58,967.04,bank_transfer,same_day,-1,
+22,ORD-20250511-00022,25,2025-05-11,entregado,3343.26,10,150,702.08,3861.01,credit_card,express,-1,Nota del cliente: Llamar antes
+23,ORD-20230429-00023,24,2023-04-29,pendiente,3389.8,1,480,711.86,4547.76,debit_card,same_day,-1,
+24,ORD-20250419-00024,2,2025-04-19,pendiente,3098.96,1,10,650.78,3728.75,debit_card,express,10,
+25,ORD-20240618-00025,27,2024-06-18,enviado,1695.78,20,10,356.11,1722.73,paypal,express,9,
+26,ORD-20250924-00026,21,2025-09-24,pendiente,1748.11,0,190,367.1,2305.21,debit_card,pickup,2,
+27,ORD-20251218-00027,18,2025-12-18,pendiente,45.11,0,310,9.47,364.58,bank_transfer,express,-1,
+28,ORD-20230410-00028,15,2023-04-10,enviado,1183.43,8,400,248.52,1737.28,paypal,pickup,-1,
+29,ORD-20230412-00029,4,2023-04-12,entregado,1489.9,11,30,312.88,1668.89,cash_on_delivery,pickup,-1,
+30,ORD-20251011-00030,28,2025-10-11,cancelado,1341.35,15,120,281.68,1541.83,cash_on_delivery,standard,-1,
+31,ORD-20250207-00031,26,2025-02-07,procesando,2502.96,13,280,525.62,2983.2,cash_on_delivery,standard,6,
+32,ORD-20240729-00032,27,2024-07-29,enviado,1948.86,14,280,409.26,2365.28,bank_transfer,standard,-1,
+33,ORD-20230826-00033,33,2023-08-26,entregado,1886.97,16,200,396.26,2181.31,bank_transfer,express,-1,Nota del cliente: Dejar en portería
+34,ORD-20240202-00034,7,2024-02-02,cancelado,1280.71,18,70,268.95,1389.13,debit_card,same_day,-1,
+35,ORD-20230730-00035,32,2023-07-30,procesando,1154.16,0,200,242.37,1596.53,debit_card,same_day,-1,
+36,ORD-20230510-00036,11,2023-05-10,entregado,1673.15,4,40,351.36,1997.58,credit_card,standard,-1,
+37,ORD-20240325-00037,29,2024-03-25,procesando,5107.31,12,490,1072.54,6056.97,debit_card,express,3,
+38,ORD-20240205-00038,5,2024-02-05,procesando,180.62,1,70,37.93,286.74,debit_card,same_day,-1,Nota del cliente: Envolver para regalo
+39,ORD-20241219-00039,30,2024-12-19,cancelado,2660.03,18,110,558.61,2849.83,debit_card,same_day,7,Nota del cliente: Envolver para regalo
+40,ORD-20250730-00040,28,2025-07-30,entregado,1061.55,9,360,222.93,1548.94,cash_on_delivery,standard,-1,
+41,ORD-20240828-00041,27,2024-08-28,procesando,1639.46,16,120,344.29,1841.44,credit_card,standard,-1,
+42,ORD-20250402-00042,3,2025-04-02,procesando,1429.03,8,230,300.1,1844.81,debit_card,same_day,-1,Nota del cliente: Llamar antes
+43,ORD-20250906-00043,11,2025-09-06,entregado,841.99,4,200,176.82,1185.13,cash_on_delivery,standard,9,Nota del cliente: Llamar antes
+44,ORD-20250819-00044,31,2025-08-19,pendiente,832.03,12,290,174.73,1196.92,credit_card,same_day,-1,
+45,ORD-20230303-00045,6,2023-03-03,entregado,1321.78,5,220,277.57,1753.26,credit_card,standard,8,
+46,ORD-20240524-00046,24,2024-05-24,entregado,1060.31,6,400,222.67,1619.36,bank_transfer,express,-1,
+47,ORD-20250117-00047,15,2025-01-17,entregado,2537.63,12,30,532.9,2796.01,bank_transfer,express,-1,
+48,ORD-20230622-00048,3,2023-06-22,cancelado,644.95,5,480,135.44,1228.14,cash_on_delivery,pickup,-1,
+49,ORD-20251021-00049,21,2025-10-21,procesando,1968.84,9,40,413.46,2245.1,paypal,pickup,-1,Nota del cliente: Envolver para regalo
+50,ORD-20250304-00050,13,2025-03-04,enviado,354.0,9,400,74.34,796.48,cash_on_delivery,standard,-1,
+51,ORD-20230924-00051,5,2023-09-24,procesando,2580.49,4,490,541.9,3509.17,debit_card,express,9,
+52,ORD-20240812-00052,19,2024-08-12,procesando,1388.68,12,180,291.62,1693.66,credit_card,pickup,-1,
+53,ORD-20241204-00053,10,2024-12-04,pendiente,1419.37,15,20,298.07,1524.53,paypal,pickup,9,Nota del cliente: Dejar en portería
+54,ORD-20240612-00054,1,2024-06-12,enviado,1988.6,0,20,417.61,2426.21,cash_on_delivery,express,3,
+55,ORD-20230626-00055,4,2023-06-26,entregado,2913.52,4,290,611.84,3698.82,cash_on_delivery,pickup,1,
+56,ORD-20240916-00056,6,2024-09-16,entregado,1778.99,9,320,373.59,2312.47,paypal,express,-1,
+57,ORD-20250404-00057,27,2025-04-04,enviado,3503.4,20,370,735.71,3908.43,cash_on_delivery,standard,6,
+58,ORD-20240704-00058,28,2024-07-04,pendiente,2146.77,5,290,450.82,2780.25,debit_card,express,10,
+59,ORD-20250717-00059,31,2025-07-17,procesando,704.13,5,80,147.87,896.79,cash_on_delivery,same_day,-1,
+60,ORD-20230306-00060,28,2023-03-06,cancelado,1018.56,9,390,213.9,1530.79,bank_transfer,pickup,-1,
+61,ORD-20231011-00061,30,2023-10-11,procesando,3256.64,17,70,683.89,3456.9,paypal,standard,-1,
+62,ORD-20240605-00062,3,2024-06-05,entregado,536.87,8,330,112.74,936.66,paypal,standard,-1,
+63,ORD-20240418-00063,20,2024-04-18,cancelado,5201.31,19,140,1092.28,5445.34,bank_transfer,standard,2,
+64,ORD-20231015-00064,14,2023-10-15,entregado,702.43,2,290,147.51,1125.89,cash_on_delivery,standard,-1,
+65,ORD-20240929-00065,18,2024-09-29,cancelado,2886.47,4,70,606.16,3447.17,debit_card,express,-1,
+66,ORD-20231206-00066,8,2023-12-06,enviado,352.56,13,370,74.04,750.77,cash_on_delivery,same_day,-1,
+67,ORD-20230721-00067,26,2023-07-21,entregado,21.92,4,90,4.6,115.64,cash_on_delivery,same_day,-1,
+68,ORD-20250320-00068,22,2025-03-20,entregado,1891.67,13,140,397.25,2183.0,cash_on_delivery,pickup,-1,Nota del cliente: Llamar antes
+69,ORD-20251227-00069,19,2025-12-27,entregado,3175.43,20,230,666.84,3437.18,cash_on_delivery,same_day,-1,
+70,ORD-20250919-00070,32,2025-09-19,cancelado,7.73,10,370,1.62,378.58,paypal,same_day,-1,
+71,ORD-20250122-00071,4,2025-01-22,entregado,899.26,6,450,188.84,1484.14,credit_card,same_day,-1,
+72,ORD-20251018-00072,10,2025-10-18,enviado,595.0,18,470,124.95,1082.85,credit_card,standard,-1,
+73,ORD-20230429-00073,27,2023-04-29,procesando,994.39,15,260,208.82,1314.05,paypal,same_day,-1,
+74,ORD-20240611-00074,32,2024-06-11,pendiente,283.2,13,430,59.47,735.85,bank_transfer,standard,-1,
+75,ORD-20251116-00075,26,2025-11-16,entregado,3332.3,18,380,699.78,3812.27,cash_on_delivery,standard,-1,
+76,ORD-20250815-00076,25,2025-08-15,pendiente,1809.26,10,30,379.94,2038.27,debit_card,pickup,7,
+77,ORD-20250326-00077,26,2025-03-26,pendiente,937.04,0,460,196.78,1593.82,credit_card,pickup,-1,
+78,ORD-20230407-00078,20,2023-04-07,cancelado,3436.79,10,200,721.73,4014.84,credit_card,same_day,-1,Nota del cliente: Entregar por la tarde
+79,ORD-20240530-00079,32,2024-05-30,pendiente,1236.75,8,410,259.72,1807.53,cash_on_delivery,standard,-1,
+80,ORD-20250102-00080,17,2025-01-02,entregado,62.1,4,480,13.04,552.66,credit_card,standard,-1,
+81,ORD-20250809-00081,5,2025-08-09,enviado,619.49,11,110,130.09,791.44,bank_transfer,standard,-1,
+82,ORD-20250606-00082,25,2025-06-06,pendiente,3704.66,1,360,777.98,4805.59,debit_card,same_day,-1,
+83,ORD-20230326-00083,31,2023-03-26,enviado,87.68,20,400,18.41,488.55,credit_card,standard,-1,
+84,ORD-20231103-00084,20,2023-11-03,entregado,2364.14,8,140,496.47,2811.48,debit_card,pickup,-1,
+85,ORD-20240204-00085,11,2024-02-04,entregado,2548.9,16,30,535.27,2706.35,credit_card,same_day,-1,
+86,ORD-20240823-00086,34,2024-08-23,cancelado,1730.38,5,80,363.38,2087.24,credit_card,same_day,-1,Nota del cliente: Llamar antes
+87,ORD-20230327-00087,10,2023-03-27,cancelado,1219.52,3,420,256.1,1859.03,bank_transfer,express,9,
+88,ORD-20230416-00088,2,2023-04-16,procesando,1598.84,13,100,335.76,1826.75,credit_card,same_day,-1,
+89,ORD-20230410-00089,13,2023-04-10,enviado,2544.8,0,500,534.41,3579.21,debit_card,express,3,Nota del cliente: Envolver para regalo
+90,ORD-20231113-00090,6,2023-11-13,entregado,2340.85,16,400,491.58,2857.89,credit_card,same_day,10,
+91,ORD-20251205-00091,18,2025-12-05,entregado,3361.43,1,360,705.9,4393.72,cash_on_delivery,pickup,5,Nota del cliente: Llamar antes
+92,ORD-20241209-00092,22,2024-12-09,pendiente,2404.3,6,10,504.9,2774.94,bank_transfer,same_day,-1,
+93,ORD-20240902-00093,10,2024-09-02,cancelado,1061.19,10,310,222.85,1487.92,cash_on_delivery,standard,-1,
+94,ORD-20240726-00094,16,2024-07-26,cancelado,247.35,14,190,51.94,454.66,paypal,express,-1,
+95,ORD-20250602-00095,30,2025-06-02,cancelado,482.46,10,80,101.32,615.53,bank_transfer,same_day,-1,Nota del cliente: Llamar antes
+96,ORD-20240220-00096,33,2024-02-20,enviado,2749.16,14,490,577.32,3431.6,paypal,standard,6,
+97,ORD-20250525-00097,18,2025-05-25,enviado,2005.3,5,240,421.11,2566.15,bank_transfer,standard,-1,
+98,ORD-20250930-00098,19,2025-09-30,cancelado,778.26,17,70,163.43,879.39,paypal,pickup,-1,
+99,ORD-20240625-00099,7,2024-06-25,procesando,1734.1,7,300,364.16,2276.87,cash_on_delivery,pickup,-1,
+100,ORD-20230503-00100,13,2023-05-03,pendiente,2974.28,9,320,624.6,3651.19,paypal,pickup,-1,
